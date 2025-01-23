@@ -49,8 +49,10 @@
     <Compile Include="Datos\conexion.cs" />
     <Compile Include="Datos\dto_pais.cs" />
     <Compile Include="Datos\dto_personal.cs" />
+    <Compile Include="Datos\dto_usuarios.cs" />
     <Compile Include="Logica\cls_pais.cs" />
     <Compile Include="Logica\cls_personal.cs" />
+    <Compile Include="Logica\cls_usuarios.cs" />
     <Compile Include="Presentacion\CUUsuarios.cs">
       <SubType>UserControl</SubType>
     </Compile>
